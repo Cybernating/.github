@@ -6,9 +6,9 @@ CYBERNATING is the digital products division of CYBERVETTER — an independent E
 
 **[cybervetter.com](https://cybervetter.com)**
 
-## Sister organisation
+## Part of Cybervetter
 
-[**Cybervetter**](https://github.com/Cybervetter) — independent European cybersecurity assurance, our consulting division.
+CYBERNATING belongs to [**Cybervetter**](https://github.com/Cybervetter) — it is not a separate company.
 
 ## Repositories here
 
